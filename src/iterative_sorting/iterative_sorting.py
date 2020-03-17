@@ -1,6 +1,6 @@
 # TO-DO: Complete the selection_sort() function below 
 def selection_sort( arr ):
-    # loop through n-1 elements
+    # loop through n elements
     for i in range(len(arr)):
         # begin with assumption that i is smallest
         current_at = i
